@@ -1,6 +1,9 @@
 # fengyao1932-hue Portfolio
 
-A simple GitHub Pages portfolio for an engineer profile, featuring the project **CUSTOMER BEHAVIOR ANALYSIS**.
+A simple GitHub Pages portfolio for an engineer profile, featuring:
+
+- **CUSTOMER BEHAVIOR ANALYSIS**
+- **POWER ELECTRONICS MACHINES AND DRIVE TECHNOLOGIES DESIGN**
 
 ## How to publish on GitHub Pages
 
@@ -15,3 +18,4 @@ A simple GitHub Pages portfolio for an engineer profile, featuring the project *
 - `index.html`: portfolio page content
 - `styles.css`: visual design
 - `assets/customer-behavior-analysis.png`: project cover image
+- `assets/power-electronics-machines-drive-technologies.pdf`: MATLAB-based power project PDF
